@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hhhhhiiii
+=======
+jjjjjjjjj
+>>>>>>> dev
